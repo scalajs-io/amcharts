@@ -1,4 +1,4 @@
-Chalk API for Scala.js
+AmCharts API for Scala.js
 ================================
 [amcharts](https://www.amcharts.com/) - JavaScript Charts & Maps.
 
